@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there, I am Luna 👋
+🌱 I’m currently learning Python  
 
+
+<a href="https://github.com/mlunax">
+  <img align="center" src="https://github-readme-stats.mlunax.vercel.app/api?username=mlunax&show_icons=true&theme=jolly" />
+</a>
 <!--
 **mlunax/mlunax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
