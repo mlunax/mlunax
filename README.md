@@ -1,5 +1,5 @@
 ### Hi there, I am Luna 👋
-🌱 I’m currently learning Python and NodeJS
+🌱 I’m currently learning Python, NodeJS and Golang.
 
 
 <a href="https://github.com/mlunax">
