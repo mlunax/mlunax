@@ -1,7 +1,7 @@
 ### Hi there, I am Luna 👋
 🌱 I’m currently learning Python, NodeJS and Golang.  
 I am switching to gitlab: https://gitlab.com/mlunax  
-Some project will have mirror there 
+Some projects will be mirrored there
 <details>
   <summary></summary>
   or my own gitea instance: https://git.mlunax.com
