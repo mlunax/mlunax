@@ -1,7 +1,7 @@
 ### Hi there 👋, I am Luna 🌕
 💼 I am Site Reliability Engineer.
 
-I mainly use GitLab: https://git.lunax.dev and https://gitlab.com/mlunax
+I mainly use GitLab: https://git.lunax.dev/lunax and https://gitlab.com/mlunax
 but sometimes I mirror them to GitHub
 
 <!-- <a href="https://github.com/mlunax">
