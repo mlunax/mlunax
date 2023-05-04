@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Luna 🌕
-💼 I am Site Reliability Engineer.
+💼 I am DevOps Administrator.
 
 I mainly use GitLab: https://git.lunax.dev/lunax and https://gitlab.com/mlunax
 but sometimes I mirror them to GitHub
